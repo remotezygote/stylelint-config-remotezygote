@@ -1,5 +1,5 @@
 {
-  "name": "@remotezygote/stylelint-config-remotezygote",
+  "name": "@remotezygote/stylelintrc",
   "version": "1.0.0",
   "description": "John's stylelint rules and settings.",
   "main": "dist/index.js",
